@@ -25,7 +25,7 @@ Execute the C Program for the desired output.
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 
-```
+```c
 
 #include <stdio.h>
 #include <sys/ipc.h>
